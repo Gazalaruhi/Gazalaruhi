@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gazalaruhi
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
